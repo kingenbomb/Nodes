@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local credentials and sessions
+proxyscrape_token.json
+*.token.json
+
+# Generated accounts and proxy credentials
+account/
+node/
+
+# Local browser extension; configure TURNSTILE_EXTENSION_PATH instead
+turnstilePatch/
+
+# Runtime artifacts
+*.log
+screenshots/
+.DS_Store
