@@ -1,6 +1,8 @@
 # Nodes
 
 ProxyScrape 注册与代理导出工具。浏览器仅用于获取 Turnstile token，邮箱创建、注册、收信、验证与代理列表获取均通过 HTTP 完成。
+可与这个项目做代理池 导入使用
+https://github.com/Resinat/Resin
 
 ## 运行界面
 
